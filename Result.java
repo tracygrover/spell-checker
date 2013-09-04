@@ -1,12 +1,4 @@
-/*
- COE 2SI4 - Project 2
-Author: (Prateek Peereddy, 0672434, peeredpr@mcmaster.ca)
- *      (Esha Tracy Grover, 0771212, grover_tracy@hotmail.com)
---------------------------------------------------
-Program Description:
-Inputs:
-Outputs:
- */
+/* COE 2SI4 - Project 2 */
 
 public class Result{
     boolean found;
